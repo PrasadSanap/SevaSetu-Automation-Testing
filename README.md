@@ -28,11 +28,6 @@ This repository contains the automation testing implementation developed to vali
 SevaSetu-Automation-Testing/
 │
 ├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── org/example/
-│   │           └── Main.java
-│   │
 │   └── test/
 │       └── java/
 │           ├── base/
